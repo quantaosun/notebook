@@ -8,7 +8,7 @@ The purpose of my notebooks, is similar to many others, that is to democratisize
 
 The format may be not ideal, I willcontinue to improve that part.
 
-for the first ipynb file, you may want to use it with the following two links open in your browse
+for the  conda_rdkit_openmm_on_google_colab_modified_by_Tao.ipynb, you may want to use it with the following two links open in your browse
 https://github.com/openmm/openmm/blob/master/examples/input.pdb 
 http://docs.openmm.org/latest/userguide/application.html#a-first-example
 
