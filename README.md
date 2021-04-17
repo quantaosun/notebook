@@ -12,6 +12,11 @@ for the  conda_rdkit_openmm_on_google_colab_modified_by_Tao.ipynb, you may want 
 https://github.com/openmm/openmm/blob/master/examples/input.pdb 
 http://docs.openmm.org/latest/userguide/application.html#a-first-example
 
+for the ABFE which is to calculate the absolute free enegy of a protein and a ligand, you may want to use it with these two links open 
+http://www.alchemistry.org/wiki/Absolute_Binding_Free_Energy_-_Gromacs_2016
+http://www.mdtutorials.com/gmx/complex/index.html
+Note that the ABFE need quite a lot computer resources, you may want to split your job into several subjobs.
+
 Quantao
 
 quantaosun@gmail.com
