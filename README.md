@@ -17,6 +17,10 @@ http://www.alchemistry.org/wiki/Absolute_Binding_Free_Energy_-_Gromacs_2016
 http://www.mdtutorials.com/gmx/complex/index.html
 Note that the ABFE need quite a lot computer resources, you may want to split your job into several subjobs.
 
+for the RBFE which is to calculate the relative free energy of two ligands, you many want to use it with the links below,
+https://siremol.org/tutorials/ligandswap/README.html (2021-04-18)
+
+
 Quantao
 
 quantaosun@gmail.com
