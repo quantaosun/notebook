@@ -1,4 +1,11 @@
 # notebook
+If you can't get access to run.sh and analysis pyton script when using ABFE notebook, you may want to download it here
+
+https://qutesun.ml/post18.html
+
+19/04/2021
+
+-----------------------------------------------------------------------
 This is mainly for my purpose of doing molecular modelling, so there might be some Chinese inside the notebook
 if you can't understand that, you could write a email to quantaosun@gmail.com， potentially, I may be able to provide all English verison.
 
