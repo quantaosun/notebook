@@ -30,6 +30,9 @@ Note that the ABFE need quite a lot computer resources, you may want to split yo
 for the RBFE which is to calculate the relative free energy of two ligands, you many want to use it with the links below,
 https://siremol.org/tutorials/ligandswap/README.html (2021-04-18)
 
+For my FEP_by_NAMD notebook, you could head to have a look at my blog as well
+https://qutesun.ml/post6.html 2021-04-21
+
 
 Quantao
 
