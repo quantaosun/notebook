@@ -1,4 +1,7 @@
 # notebook
+
+Note, for the notebook called smina docking, I just uploaded here for my convenience when I need it  since I am bad at managing files, I do not have any credit on this notebook at all, you should visit https://www.linkedin.com/pulse/using-google-colab-protein-ligand-docking-leela-sriram-dodda for its original link.
+
 If you can't get access to run.sh and analysis pyton script when using ABFE notebook, you may want to download it here
 
 https://qutesun.ml/post18.html
