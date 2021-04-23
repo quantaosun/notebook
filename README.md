@@ -33,6 +33,8 @@ https://siremol.org/tutorials/ligandswap/README.html (2021-04-18)
 For my FEP_by_NAMD notebook, you could head to have a look at my blog as well
 https://qutesun.ml/post6.html 2021-04-21
 
+For the Namd-charmm GUI notebook, it is derived from a youtube channel, which I will attach the link soon. 2021-04-21
+
 
 Quantao
 
