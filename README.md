@@ -35,6 +35,8 @@ https://qutesun.ml/post6.html 2021-04-21
 
 For the Namd-charmm GUI notebook, it is derived from a youtube channel, which I will attach the link soon. 2021-04-21
 
+For the ipymol notebook, it is copied from other source which I list inside the notebook. 2021-04-29
+
 
 Quantao
 
