@@ -37,8 +37,8 @@ For the Namd-charmm GUI notebook, it is derived from a youtube channel, which I 
 
 For the ipymol notebook, it is copied from other source which I list inside the notebook. 2021-04-29
 
-The job control bash script added for The ABFE ipynb for gromacs simulation, gpu command improved. 
-Two namd_charm_gui_solution_md.csh/sh files added, for the purpose of doing a normal protein-ligand simulation, based on the input generator of Charmm GUI. The coreponding workflow is not provided here, so you should go to Charmm GUI and read how to do a proper solution simulation. But why there are two  script in csh, and sh respectively ? Well, the csh one is the default one come with Charmm GUI, it is handy to be used on google colab, but for my personal use, I sometime need to run the job on some other clound platform that I can't install a proper csh shell, so the bash/sh version is provided here for that purpose.    2021-07-07
+The job control bash script "gromacs_abf_run.sh" added for The ABFE ipynb for gromacs simulation, gpu command improved. 
+Two "namd_charm_gui_solution_md.csh/sh" files added, for the purpose of doing a normal protein-ligand simulation, based on the input generator of Charmm GUI. The coreponding workflow is not provided here, so you should go to Charmm GUI and read how to do a proper solution simulation. But why there are two  script in csh, and sh respectively ? Well, the csh one is the default one come with Charmm GUI, it is handy to be used on google colab, but for my personal use, I sometime need to run the job on some other clound platform that I can't install a proper csh shell, so the bash/sh version is provided here for that purpose.    2021-07-07
 
 
 Quantao
